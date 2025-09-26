@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido arácnido",
+      "Super fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes de telaraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnología",
+    "poder": [
+      "Armadura blindada",
+      "Volar",
+      "Lásers"
+    ],
+    "habilidadEspecial": "Ingeniería avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarín"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Dios del Trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocación de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Rey de Wakanda",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Compromisos diplomáticos",
+    "poder": [
+      "Traje de vibranio",
+      "Sentidos aumentados",
+      "Agilidad felina"
+    ],
+    "habilidadEspecial": "Estratega y líder",
+    "aliado": [
+      "Shuri"
+    ],
+    "enemigo": [
+      "Killmonger"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Ant-Man",
+    "nombreReal": "Scott Lang",
+    "nombreSociedad": "Vengador",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Limitaciones del traje",
+    "poder": [
+      "Encogerse",
+      "Crecer",
+      "Comunicación con hormigas"
+    ],
+    "habilidadEspecial": "Ingeniería y robo sigiloso",
+    "aliado": [
+      "Wasp"
+    ],
+    "enemigo": [
+      "Yellowjacket"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Falcon",
+    "nombreReal": "Sam Wilson",
+    "nombreSociedad": "Vengador",
+    "edad": 36,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependencia del equipo aéreo",
+    "poder": [
+      "Vuelo con alas",
+      "Combate aéreo",
+      "Tiro preciso"
+    ],
+    "habilidadEspecial": "Tácticas militares",
+    "aliado": [
+      "Captain America"
+    ],
+    "enemigo": [
+      "Crossbones"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Scarlet Witch",
+    "nombreReal": "Wanda Maximoff",
+    "nombreSociedad": "Hechicera",
+    "edad": 29,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Inestabilidad emocional",
+    "poder": [
+      "Magia del caos",
+      "Telequinesis",
+      "Alteración de la realidad"
+    ],
+    "habilidadEspecial": "Hechicería avanzada",
+    "aliado": [
+      "Vision"
+    ],
+    "enemigo": [
+      "Agatha Harkness"
+    ]
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Captain Marvel",
+    "nombreReal": "Carol Danvers",
+    "nombreSociedad": "Vengadora",
+    "edad": 34,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Impulsividad",
+    "poder": [
+      "Energía fotónica",
+      "Vuelo",
+      "Superfuerza"
+    ],
+    "habilidadEspecial": "Piloto de combate experta",
+    "aliado": [
+      "Nick Fury"
+    ],
+    "enemigo": [
+      "Yon-Rogg"
+    ]
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Daredevil",
+    "nombreReal": "Matt Murdock",
+    "nombreSociedad": "Vigilante",
+    "edad": 33,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Sensibilidad a ruidos extremos",
+    "poder": [
+      "Sentidos hiperdesarrollados",
+      "Ecolocación",
+      "Acrobacia"
+    ],
+    "habilidadEspecial": "Maestro en artes marciales",
+    "aliado": [
+      "Foggy Nelson"
+    ],
+    "enemigo": [
+      "Kingpin"
+    ]
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Shang-Chi",
+    "nombreReal": "Shang-Chi",
+    "nombreSociedad": "Maestro del Kung Fu",
+    "edad": 30,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Vulnerable sin los Diez Anillos",
+    "poder": [
+      "Habilidad marcial suprema",
+      "Reflejos sobrehumanos"
+    ],
+    "habilidadEspecial": "Dominio de armas tradicionales",
+    "aliado": [
+      "Katy"
+    ],
+    "enemigo": [
+      "Wenwu"
+    ]
+  },
+  {
+    "id": 11,
+    "nombreSuperheroe": "She-Hulk",
+    "nombreReal": "Jennifer Walters",
+    "nombreSociedad": "Abogada de superhumanos",
+    "edad": 32,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Conflictos legales y éticos",
+    "poder": [
+      "Superfuerza",
+      "Resistencia extrema",
+      "Regeneración"
+    ],
+    "habilidadEspecial": "Estrategia legal",
+    "aliado": [
+      "Hulk"
+    ],
+    "enemigo": [
+      "Titania"
+    ]
+  },
+  {
+    "id": 12,
+    "nombreSuperheroe": "Star- Lord",
+    "nombreReal": "Peter Quill",
+    "nombreSociedad": "Líder de los Guardianes",
+    "edad": 38,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Distracciones y sarcasmo",
+    "poder": [
+      "Tiro experto",
+      "Combate con jet-boots",
+      "Tácticas espaciales"
+    ],
+    "habilidadEspecial": "Liderazgo y pilotaje",
+    "aliado": [
+      "Gamora"
+    ],
+    "enemigo": [
+      "Ronan el Acusador"
+    ]
+  }
+]
